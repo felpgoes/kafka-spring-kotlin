@@ -6,6 +6,7 @@
 - [x] Ktlint
 - [x] Simple Producer
 - [x] Simple Consumer
+- [ ] Add docker compose validation (healthcheck and connections)
 - [ ] AVRO Configuration
 - [ ] Producer with AVRO Patterns
 - [ ] Consumer following AVRO Patterns
